@@ -1,0 +1,48 @@
+body {
+  background-color: #f4f6f9;
+  font-family: "Satoshi", sans-serif;
+}
+
+.top-container {
+  background-image: url("https://printsnearme.com/bg-top.png");
+  background-size: 100%;
+  background-position: left top;
+  background-repeat: no-repeat;
+}
+span {
+  margin: 0;
+  padding: 0;
+}
+
+.page-break {
+  page-break-before: always;
+}
+.avoid-page-break {
+  page-break-inside: avoid;
+}
+
+.tooltip {
+  &::before {
+    content: "";
+    border-width: 12px;
+    border-style: solid;
+    border-color: transparent;
+    border-bottom: 10px solid #e2e4e9;
+    position: absolute;
+    bottom: 100%;
+
+    transform: translateX(-50%);
+  }
+}
+
+.tooltip-right {
+  &::before {
+    left: 66%;
+  }
+}
+
+.tooltip-left {
+  &::before {
+    right: 66%;
+  }
+}

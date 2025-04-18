@@ -1,0 +1,191 @@
+{
+  "vin": "1HGCM82633A123456",
+  "year": 2023,
+  "make": "Honda",
+  "model": "Accord",
+  "number_plate": "XYZ1234",
+  "car_image_url": "https://pictures.topspeed.com/IMG/jpg/200512/2005-mazda-rx-8-54.jpg",
+  "report_type": "full",
+  "from_attributes": true,
+  "fuel_information": {
+    "fuel_type": "Gasoline",
+    "fuel_capacity_l": 60,
+    "fuel_consumption_combined_l100km": 8.5,
+    "fuel_consumption_urban_l100km": 10.5,
+    "fuel_consumption_extra_urban_l100km": 6.5,
+    "co2_emissions_gkm": 180,
+    "emission_standard": "Euro 6"
+  },
+  "created": {
+    "_seconds": 1736260467,
+    "_nanoseconds": 41000000
+  },
+  "body": "Sedan",
+  "market_value_analysis": {
+    "first_invoice_price": 25000,
+    "manufacturer_suggested_retail_price": 27000,
+    "production_seq_number": "12345ABC",
+    "retail_value": 24000,
+    "tradein_value": 20000,
+    "rough_tradein_value": 18000,
+    "average_tradein_value": 19000,
+    "loan_value": 22000,
+    "tradein_values": [
+      {
+        "date": {
+          "_seconds": 1736260467,
+          "_nanoseconds": 41000000
+        },
+        "value": 20000
+      },
+      {
+        "date": {
+          "_seconds": 1736280543,
+          "_nanoseconds": 41000000
+        },
+        "value": 19000
+      }
+    ],
+    "auction_values": {
+      "low_auction_value": 17000,
+      "average_auction_value": 18500,
+      "high_auction_value": 20000
+    }
+  },
+  "manufacturer_details": {
+    "manufacturer_name": "Honda",
+    "manufacturer_address": "Tokyo, Japan",
+    "plant_country": "Japan",
+    "production_started": 2002,
+    "production_stopped": null,
+    "engine_manufacturer": "Honda Engines"
+  },
+  "engine_details": {
+    "engine_full_name": "Honda i-VTEC 2.0L",
+    "engine_cod": "K20C",
+    "engine_size_ccm": 1996,
+    "engine_cylinders": 4,
+    "engine_power_kw": 150,
+    "engine_power_hp": 201,
+    "engine_rpm": 6500,
+    "engine_turbine": "None",
+    "engine_position": "Front"
+  },
+  "transmission_information": {
+    "transmission": "Automatic",
+    "transmission_type": "CVT",
+    "transmission_speeds": "7",
+    "number_of_gears": 7,
+    "drivetrain_type": "FWD"
+  },
+  "dimensions": {
+    "overall_length_mm": 4870,
+    "overall_height_mm": 1450,
+    "overall_width_mm": 1860,
+    "width_including_mirrors_mm": 2070,
+    "wheelbase_length_mm": 2830,
+    "curb_weight_kg": 1450,
+    "max_roof_load_kg": 75
+  },
+  "interior_space": {
+    "front_legroom_mm": 1050,
+    "rear_legroom_mm": 980,
+    "front_headroom_mm": 970,
+    "rear_headroom_mm": 940,
+    "number_of_doors": 4,
+    "number_of_seats": 5
+  },
+  "towing_and_payload": {
+    "standard_towing_kg": 1000,
+    "maximum_towing_kg": 1500,
+    "standard_payload_kg": 500
+  },
+  "suspension": {
+    "suspension_type": "Independent",
+    "front_suspension": "MacPherson Strut",
+    "rear_suspension": "Multi-Link",
+    "turning_diameter_m": 11.5
+  },
+  "brakes": {
+    "front_brake_type": "Disc",
+    "rear_brake_type": "Disc",
+    "brake_system": "Hydraulic"
+  },
+  "tires": {
+    "tires": "All-Season",
+    "wheels_rims_size": "18 inch",
+    "wheel_size": "18 inch",
+    "number_wheels": 4
+  },
+  "identification_and_technical_specifications": {
+    "make": "Honda",
+    "model": "Accord",
+    "acceleration_0_100_kmh": 8.0,
+    "max_speed_kmh": 210,
+    "steering_type": "Power"
+  },
+  "safety_equipments": {
+    "abs_brakes": "Yes",
+    "driver_airbag": "Yes",
+    "passenger_airbag": "Yes",
+    "electronic_brake_assistance": "Yes"
+  },
+  "comfort_features": {
+    "air_conditioning": "Automatic",
+    "heated_steering_wheel": "Yes",
+    "front_heated_seat": "Yes",
+    "leather_seat": "Yes",
+    "power_sunroof": "Yes"
+  },
+  "convenience_features": {
+    "keyless_entry": "Yes",
+    "power_door_locks": "Yes",
+    "power_windows": "Yes",
+    "steering_wheel_mounted_controls": "Yes"
+  },
+  "entertainment_and_multimedia": {
+    "am_fm_radio": "Yes",
+    "cd_player": "Yes",
+    "subwoofer": "Yes",
+    "telematics_system": "Yes"
+  },
+  "lightning_and_visibility": {
+    "daytime_running_lights": "Yes",
+    "fog_lights": "Yes",
+    "automatic_headlights": "Yes"
+  },
+  "stolen": {
+    "countries": [
+      {
+        "code": "us",
+        "country_name": "United States",
+        "status": false
+      },
+      {
+        "code": "ca",
+        "country_name": "Canada",
+        "status": false
+      }
+    ]
+  },
+  "odometer": {
+    "odometer_history": [
+      {
+        "date": {
+          "_seconds": 1736260467,
+          "_nanoseconds": 41000000
+        },
+        "odometer_value_km": 18000
+      },
+      {
+        "date": {
+          "_seconds": 1736260467,
+          "_nanoseconds": 41000000
+        },
+        "odometer_value_km": 15000
+      }
+    ]
+  },
+  "is_metrics": false,
+  "language": "en"
+}
